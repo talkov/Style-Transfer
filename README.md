@@ -75,7 +75,7 @@ Below are examples of content images stylized using our approach:
 ## 📂 References
 
 - **Original Paper**:  
-  [In the Light of Feature Distributions: Moment Matching for Neural Style Transfer](https://arxiv.org/abs/XXXX)
+  [In the Light of Feature Distributions: Moment Matching for Neural Style Transfer](https://arxiv.org/abs/2103.07208)
 - **WikiArt Dataset**:  
   [HuggingFace WikiArt Dataset](https://huggingface.co/datasets/huggan/wikiart)
 
