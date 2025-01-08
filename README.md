@@ -71,7 +71,16 @@ Below are examples of content images stylized using our approach:
 ![image](https://github.com/user-attachments/assets/3d3ebb5c-9853-4204-86a0-8d93536a4b21)
 
 ---
+## 👥 Contributors
 
+This project was developed by:
+
+- **Omer Hazan**
+- **Aviv Ben Ari**
+- **Tal Kozakov**
+- **Dor Patel**
+
+---
 ## 📂 References
 
 - **Original Paper**:  
