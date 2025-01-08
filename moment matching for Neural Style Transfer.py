@@ -11,7 +11,8 @@ import torch.nn as nn
 from torch.optim import Adam
 
 from dataset import SingleStyleData
-from model import VGG
+from vgg_model import VGG
+from ResNet_model import Selected_ResNet
 from losses import ContentLoss, StyleLoss
 
 from PIL import Image as pimg
