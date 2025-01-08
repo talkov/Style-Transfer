@@ -24,7 +24,7 @@ These changes explore the impact of using a different backbone for style extract
 
 The diagram below illustrates the system pipeline:
 
-![System Diagram](https://github.com/user-attachments/assets/system-diagram.png)
+![image](https://github.com/user-attachments/assets/3e4fabe1-5c99-4fc2-8ac2-ffd5768680ae)
 
 ### Description:
 1. **Input Images**:  
@@ -62,13 +62,13 @@ More details about the dataset: [WikiArt Dataset on HuggingFace](https://hugging
 
 Below are examples of content images stylized using our approach:
 
-### Content Image
-![Content Image](https://github.com/user-attachments/assets/3e4fabe1-5c99-4fc2-8ac2-ffd5768680ae)
 
 ### Stylized Outputs
-![Stylized Output 1](https://github.com/user-attachments/assets/5fe9d6b9-3080-4af5-b084-af88ab5b7da2)  
-![Stylized Output 2](https://github.com/user-attachments/assets/af7dc40c-6716-45ec-8c23-dbc04030eabd)  
-![Stylized Output 3](https://github.com/user-attachments/assets/3d3ebb5c-9853-4204-86a0-8d93536a4b21)
+![image](https://github.com/user-attachments/assets/5fe9d6b9-3080-4af5-b084-af88ab5b7da2)
+
+![image](https://github.com/user-attachments/assets/af7dc40c-6716-45ec-8c23-dbc04030eabd)
+
+![image](https://github.com/user-attachments/assets/3d3ebb5c-9853-4204-86a0-8d93536a4b21)
 
 ---
 
@@ -82,26 +82,3 @@ Below are examples of content images stylized using our approach:
 ---
 
 Feel free to explore the repository and contribute! 🚀
-
-
-
-![image](https://github.com/user-attachments/assets/3e4fabe1-5c99-4fc2-8ac2-ffd5768680ae)
-
-
-Example Output
-Here is an example of a content image stylized using ResNet18:
-
-![image](https://github.com/user-attachments/assets/5fe9d6b9-3080-4af5-b084-af88ab5b7da2)
-
-![image](https://github.com/user-attachments/assets/af7dc40c-6716-45ec-8c23-dbc04030eabd)
-
-![image](https://github.com/user-attachments/assets/3d3ebb5c-9853-4204-86a0-8d93536a4b21)
-
-
-
-
-
-
-
-
-
