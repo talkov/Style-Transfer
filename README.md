@@ -27,11 +27,9 @@ Flexible Framework: Easily extensible to include additional styles or adjust the
 Example Output
 Here is an example of a content image stylized using ResNet18:
 
-![image](https://github.com/user-attachments/assets/e7a90556-dd10-468e-9e81-fabf5d1ace11)
+![image](https://github.com/user-attachments/assets/5fe9d6b9-3080-4af5-b084-af88ab5b7da2)
 
-![image](https://github.com/user-attachments/assets/90de0d22-d6c3-4332-bb77-267c453906b9)
 
-![image](https://github.com/user-attachments/assets/8c0c891b-d4a1-48f3-9de9-948a4f842e3c)
 
 Dataset
 The WikiArt dataset was used for training the style classification model. This dataset contains a diverse set of artworks across various styles, enabling effective learning of distinct artistic characteristics.
