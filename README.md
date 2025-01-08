@@ -1,6 +1,6 @@
 # 🎨 Style-Transfer: Neural Style Transfer with ResNet18
 
-This repository implements a **modified version** of the neural style transfer method presented in the paper [*In the Light of Feature Distributions: Moment Matching for Neural Style Transfer*](https://arxiv.org/abs/XXXX), replacing the VGG network with a **ResNet18** model trained on the **WikiArt** dataset. Our approach enables the generation of stylized images guided by diverse artistic styles.
+This repository implements a **modified version** of the neural style transfer method presented in the paper [*In the Light of Feature Distributions: Moment Matching for Neural Style Transfer*](https://arxiv.org/abs/2103.07208), replacing the VGG network with a **ResNet18** model trained on the **WikiArt** dataset. Our approach enables the generation of stylized images guided by diverse artistic styles.
 
 ---
 
