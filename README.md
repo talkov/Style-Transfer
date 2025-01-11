@@ -24,7 +24,7 @@ These changes explore the impact of using a different backbone for style extract
 
 The diagram below illustrates the system pipeline:
 
-![image](https://github.com/user-attachments/assets/3e4fabe1-5c99-4fc2-8ac2-ffd5768680ae)
+![image](https://github.com/user-attachments/assets/e6108469-c4c3-4152-96d1-9c740145f9a1)
 
 ### Description:
 1. **Input Images**:  
@@ -69,6 +69,8 @@ Below are examples of content images stylized using our approach:
 ![image](https://github.com/user-attachments/assets/af7dc40c-6716-45ec-8c23-dbc04030eabd)
 
 ![image](https://github.com/user-attachments/assets/3d3ebb5c-9853-4204-86a0-8d93536a4b21)
+
+![image](https://github.com/user-attachments/assets/799eb7da-d39c-4ead-abdb-8bb0b0ccfcd9)
 
 ---
 ## 👥 Contributors
